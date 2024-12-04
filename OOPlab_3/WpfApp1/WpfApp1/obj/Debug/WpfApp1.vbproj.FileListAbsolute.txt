@@ -1,0 +1,9 @@
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.vbproj.AssemblyReference.cache
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.vb
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\Application.g.vb
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Resources.resources
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.vbproj.GenerateResource.cache
+C:\Kopach_OOP\OOPlab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.vbproj.CoreCompileInputs.cache
